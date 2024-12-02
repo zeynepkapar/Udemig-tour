@@ -1,3 +1,1 @@
-# Udemig-Tour-Proje
-# Starbucks-Proje
-# Starbucks-Proje
+# 2.Proje_Udemig-Tour
