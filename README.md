@@ -8,8 +8,6 @@ Bu projede Html, Css kullanılarak bir gezi seyehat sitesi hazırlanmıştır.
 
 Html, Css, Javascript, Visual Studio Code.
 
-# Proje Gif:
-
+# Proje Gif
 ![](UdemigTour.gif)
-# Udemig-tour
-# Udemig-tour
+
