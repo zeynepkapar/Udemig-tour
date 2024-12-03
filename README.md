@@ -10,7 +10,8 @@ Html, Css, Javascript, Visual Studio Code.
 
 # Proje Gif
 
-https://github.com/user-attachments/assets/d4073249-1ebb-439a-89ac-021c3b712937
+![Uploading GIF-2024-12-03-21-30-44.gif…]()
+
 
 
 
