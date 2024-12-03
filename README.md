@@ -2,7 +2,7 @@
 
 # Proje Özellikleri
 
-Bu projede Html, Css ve JavaScrıpt kullanılarak bir gezi seyehat sitesi hazırlanmıştır.
+Bu projede Html, Css kullanılarak bir gezi seyehat sitesi hazırlanmıştır.
 
 # Projede Kullanılan Diller ve Araçlar
 
